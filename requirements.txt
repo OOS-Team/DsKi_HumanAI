@@ -5,3 +5,4 @@ openai
 twilio
 python-dotenv
 schedule
+concurrent

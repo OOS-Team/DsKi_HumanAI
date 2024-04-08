@@ -44,6 +44,11 @@ Folgen Sie diesen Schritten, um die Entwicklungsumgebung einzurichten und das Pr
    pip install -r requirements.txt
    ```
 
+### Start LLM
+```
+litellm --model ollama/mistral
+```
+
 ### Gmail API Credentials & Token Setup
 
 1. **GCP Projekt erstellen:**
